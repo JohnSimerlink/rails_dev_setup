@@ -116,4 +116,4 @@ In order to see what VM's you have running on your system, you can enter the fol
 ---
 
 If you have any questions, concerns or issues, please email me [brad@capstory.me](mailto:brad@capstory.me). Or, show up a little early on Sunday, 12 April to the event. We will correct any issues at that time.
-
+### John S. was here
